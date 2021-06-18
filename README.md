@@ -1,15 +1,12 @@
 # RAC-SD-Task3-Team1
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<br>I got to have hands on experience on:
-<li>Python
-<li>Machine Learning
-<li>Tensorflow
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. 
+I am glad to share that we completed the third Probation task of the Software Development team of RAC - Robotics and Automation Club. My team ( Hariharan J and Praaveen D ) and I were given the Problem Statement to write a Python Script to display time and to set Alarm, Reminder and Counter Timer. From this task, I have learnt how to build a GUI window using tkinter module in Python. 
+
+<br>The modules we imported are:
+<li>plyer
+<li>tkinter
+<li>datetime
+<li>platform
+<li>winsound
+
 
 
